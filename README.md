@@ -5,7 +5,7 @@ NOTE: this assumes using SoftwareSerial RX/TX ports 8/4. If you need to change t
 
 This is a forked bersion of both [Critters Library](https://github.com/Critters/MP3FLASH16P) and [afreeland Library](https://github.com/afreeland/MP3FLASH16P) both being excellent libraries.  After some digging each version of the MP3FLASH16P was developed for 2 different modules, thus the reason for similar code but different passed commands.  BY8x01 library was created to reduce the confusion.
 
-**Original Readme by afreeland below**
+# Original Readme by afreeland below
 MP3FLASH16P
 This is forked version of [Critters Library](https://github.com/Critters/MP3FLASH16P) that was an excellent starting point but was missing some functionality for the v1.2 chip. The goal of this library is to make is easier for developers and hobbyists to use this inexpensive mp3 flash module and get to building cooler things quicker! 
 
