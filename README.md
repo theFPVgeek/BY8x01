@@ -3,7 +3,7 @@ This is an Arduino library created for both the BY8001-16P and the BY8301-16P MP
 
 **NOTE:** This library is using SoftwareSerial RX/TX ports on 8/4. If you need to change the assignment change the BY8x01.cpp file.
 
-This is a forked bersion of both [Critters Library](https://github.com/Critters/MP3FLASH16P) and [afreeland Library](https://github.com/afreeland/MP3FLASH16P) both being excellent libraries.  After some digging each version of the MP3FLASH16P was developed for 2 different modules, thus the reason for similar code but different passed commands.  BY8x01 library was created to reduce the confusion.
+This is a forked bersion of both [Critters Library](https://github.com/Critters/MP3FLASH16P) and [afreeland Library](https://github.com/afreeland/MP3FLASH16P) both being excellent libraries.  After some research, discovered each version of the MP3FLASH16P was developed for 2 different modules, thus the reason for similar code but different passed commands.  BY8x01 library was created to reduce the confusion.
 
 # Original Readme by afreeland below
 MP3FLASH16P
